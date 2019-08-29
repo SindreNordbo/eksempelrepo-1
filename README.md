@@ -3,4 +3,3 @@
 ---
 
 Eksempelrepo til [GIT](https://git-scm.com/)-kurs!
-
